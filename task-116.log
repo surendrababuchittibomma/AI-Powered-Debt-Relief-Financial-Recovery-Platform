@@ -1,0 +1,9 @@
+Collecting bcrypt==4.0.1
+  Downloading bcrypt-4.0.1-cp36-abi3-win_amd64.whl.metadata (9.0 kB)
+Downloading bcrypt-4.0.1-cp36-abi3-win_amd64.whl (152 kB)
+Installing collected packages: bcrypt
+  Attempting uninstall: bcrypt
+    Found existing installation: bcrypt 5.0.0
+    Uninstalling bcrypt-5.0.0:
+      Successfully uninstalled bcrypt-5.0.0
+Successfully installed bcrypt-4.0.1

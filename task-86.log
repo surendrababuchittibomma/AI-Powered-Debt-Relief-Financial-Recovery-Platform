@@ -1,0 +1,16 @@
+Collecting requests
+  Downloading requests-2.34.2-py3-none-any.whl.metadata (4.8 kB)
+Collecting charset_normalizer<4,>=2 (from requests)
+  Downloading charset_normalizer-3.4.8-cp313-cp313-win_amd64.whl.metadata (42 kB)
+Requirement already satisfied: idna<4,>=2.5 in .\venv\Lib\site-packages (from requests) (3.18)
+Collecting urllib3<3,>=1.26 (from requests)
+  Downloading urllib3-2.7.0-py3-none-any.whl.metadata (6.9 kB)
+Collecting certifi>=2023.5.7 (from requests)
+  Downloading certifi-2026.6.17-py3-none-any.whl.metadata (2.5 kB)
+Downloading requests-2.34.2-py3-none-any.whl (73 kB)
+Downloading charset_normalizer-3.4.8-cp313-cp313-win_amd64.whl (161 kB)
+Downloading urllib3-2.7.0-py3-none-any.whl (131 kB)
+Downloading certifi-2026.6.17-py3-none-any.whl (133 kB)
+Installing collected packages: urllib3, charset_normalizer, certifi, requests
+
+Successfully installed certifi-2026.6.17 charset_normalizer-3.4.8 requests-2.34.2 urllib3-2.7.0

@@ -1,0 +1,18 @@
+
+> finrelief-ai-frontend@1.0.0 build
+> vite build
+
+vite v4.5.14 building for production...
+transforming...
+✓ 2100 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.43 kB │ gzip:   0.30 kB
+dist/assets/index-d3988a43.css    4.78 kB │ gzip:   1.57 kB
+dist/assets/index-bdf4b837.js   616.50 kB │ gzip: 178.22 kB
+
+(!) Some chunks are larger than 500 kBs after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 10.85s
